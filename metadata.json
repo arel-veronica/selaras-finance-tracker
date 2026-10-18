@@ -1,0 +1,8 @@
+{
+  "name": "SELARAS FINANCE",
+  "description": "Aplikasi pencatatan keuangan rumah tangga cerdas untuk pasangan suami istri dengan AI bahasa alami, pemindai struk belanja, dan sinkronisasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
