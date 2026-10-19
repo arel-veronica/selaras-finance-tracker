@@ -3,6 +3,7 @@
   "appId": "1:854775872150:web:518ca4cec4a401c94ae0b7",
   "apiKey": "AIzaSyAyHdPPy-Lmdlcj-9vNYnbO8KbDfnHd844",
   "authDomain": "gen-lang-client-0336815642.firebaseapp.com",
+  "firestoreDatabaseId": "ai-studio-selarasfinance-3d5b8e40-98c5-42a5-b72c-51f33858480e",
   "storageBucket": "gen-lang-client-0336815642.firebasestorage.app",
   "messagingSenderId": "854775872150",
   "measurementId": "",
